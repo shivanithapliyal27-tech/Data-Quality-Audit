@@ -1,0 +1,6 @@
+Check,Status
+Missing Values,PASS
+Exact Duplicate Rows,PASS
+Negative Sales,PASS
+Non-positive Quantity,PASS
+Discount Range,PASS

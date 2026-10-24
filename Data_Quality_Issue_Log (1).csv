@@ -1,0 +1,5 @@
+Issue,Issue_Count,Severity,Recommended_Action
+Missing Values,0,None,Investigate and handle missing values
+Duplicate Rows,0,None,Review exact duplicates before removal
+Negative Sales,0,None,Investigate unusual sales values
+Non-positive Quantity,0,None,Validate quantity values
